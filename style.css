@@ -49,3 +49,8 @@ h1 {
   color: #333;
   margin-top: 0.25rem;
 }
+.subject.completed {
+  background-color: #d4edda;
+  text-decoration: line-through;
+  color: #333;
+}
